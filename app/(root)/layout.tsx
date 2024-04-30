@@ -6,6 +6,9 @@ export const metadata: Metadata = {
   title: "VoxSync | Seamlessly Sync Your Meetings, Anytime, Anywhere",
   description:
     "Join, schedule, and sync your meetings effortlessly with VoxSync. Experience seamless collaboration with our intuitive meeting platform. Connect with ease, wherever you are.",
+  icons: {
+    icon: "/icons/voxsync-logo.svg",
+  },
 };
 
 const RootLayout = ({ children }: { children: ReactNode }) => {
