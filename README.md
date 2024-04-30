@@ -2,8 +2,6 @@
 
 Welcome to VoxSync - Seamlessly Sync Your Meetings, Anytime, Anywhere.
 
-<!-- ![VoxSync Logo](./voxsync_logo.png) -->
-
 ## Description
 
 VoxSync is a cutting-edge Next.js application designed to revolutionize your meeting experience. Seamlessly manage your meetings with features like scheduling, instant meetings, viewing recordings, joining via invite links, and personal chat rooms. Our intuitive platform ensures smooth collaboration, enabling you to connect effortlessly from any location.
@@ -22,29 +20,37 @@ To get started with VoxSync, follow these simple steps:
 
 1. **Clone the repository:**
 
-``` git clone https://github.com/yourusername/voxsync.git```
+```
+git clone  https://github.com/B1TSH3LL/VoxSync.git
+```
 
 2. **Navigate to the project directory:**
 
-```cd voxsync```
+```
+cd VoxSync
+```
 
 
 3. **Install dependencies:**
 
-```npm install```
+```
+npm install
+```
 
 
 4. **Run the development server:**
 
-```npm run dev```
+```
+npm run dev
+```
 
 
 5. **Access VoxSync:**
-Open your web browser and visit `http://localhost:3000`.
+Open your web browser and visit `http://localhost:3000`
 
 ## Technologies Used
 
-- **Framework:** Next.js
+- **Framework:** Next.js 14.2.3
 - **Authentication:** Clerk
 - **Video and Audio Call:** Stream API
 
@@ -52,13 +58,6 @@ Open your web browser and visit `http://localhost:3000`.
 
 We welcome contributions to VoxSync! If you'd like to contribute, please fork the repository and submit a pull request.
 
-## Support
-
-For any questions or issues regarding VoxSync, please contact our support team at support@voxsync.com.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
