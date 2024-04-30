@@ -1,36 +1,67 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# VoxSync
 
-## Getting Started
+Welcome to VoxSync - Seamlessly Sync Your Meetings, Anytime, Anywhere.
 
-First, run the development server:
+<!-- ![VoxSync Logo](./voxsync_logo.png) -->
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Description
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+VoxSync is a cutting-edge Next.js application designed to revolutionize your meeting experience. Seamlessly manage your meetings with features like scheduling, instant meetings, viewing recordings, joining via invite links, and personal chat rooms. Our intuitive platform ensures smooth collaboration, enabling you to connect effortlessly from any location.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Key Features
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- **Effortless Meeting Management:** Schedule meetings in advance for better organization and productivity.
+- **Instant Meetings:** Start impromptu meetings instantly without any hassle.
+- **View Recordings:** Access recordings of past meetings for reference or sharing.
+- **Join via Invite Link:** Easily join meetings by clicking on a unique invite link.
+- **Personal Chat Room:** Engage in private conversations with other participants during meetings.
 
-## Learn More
+## Installation
 
-To learn more about Next.js, take a look at the following resources:
+To get started with VoxSync, follow these simple steps:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. **Clone the repository:**
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+``` git clone https://github.com/yourusername/voxsync.git```
 
-## Deploy on Vercel
+2. **Navigate to the project directory:**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+```cd voxsync```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+3. **Install dependencies:**
+
+```npm install```
+
+
+4. **Run the development server:**
+
+```npm run dev```
+
+
+5. **Access VoxSync:**
+Open your web browser and visit `http://localhost:3000`.
+
+## Technologies Used
+
+- **Framework:** Next.js
+- **Authentication:** Clerk
+- **Video and Audio Call:** Stream API
+
+## Contributing
+
+We welcome contributions to VoxSync! If you'd like to contribute, please fork the repository and submit a pull request.
+
+## Support
+
+For any questions or issues regarding VoxSync, please contact our support team at support@voxsync.com.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Thank you for choosing VoxSync for your meeting needs. Experience the future of collaboration with VoxSync! 🚀
+
+
