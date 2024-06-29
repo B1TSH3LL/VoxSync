@@ -24,6 +24,11 @@ export const sidebarLinks = [
     route: "/personal-room",
     imgUrl: "/icons/add-personal.svg",
   },
+  {
+    lable: "Contact Me",
+    route: "/contact-me",
+    imgUrl: "/icons/share.svg",
+  },
 ];
 
 export const avatarImages = [
